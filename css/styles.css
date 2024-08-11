@@ -1,3 +1,11 @@
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
+
+
+
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Resume v7.0.6 (https://startbootstrap.com/theme/resume)
